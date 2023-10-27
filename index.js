@@ -21,5 +21,3 @@ function save(){
 // let greeting = "Welcome to Scrimba!"
 
 // welcomeEL.innerText = name + greeting 
-
-// welcomeEL.innerText += "👋"
